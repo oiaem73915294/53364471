@@ -1,3 +1,4 @@
+ps.close();
 OracleJdbcTest test = new OracleJdbcTest();
 test.fetch();
 if (out != null) {
