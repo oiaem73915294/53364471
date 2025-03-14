@@ -1,3 +1,4 @@
+} catch (IOException e) {
 rs.close();
 ps.close();
 OracleJdbcTest test = new OracleJdbcTest();
