@@ -1,3 +1,4 @@
+props.load(fs);
 } catch (IOException e) {
 rs.close();
 ps.close();
