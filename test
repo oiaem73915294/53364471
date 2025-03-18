@@ -1,3 +1,4 @@
+Class.forName(driverClass);
 test.init();
 props.load(fs);
 } catch (IOException e) {
