@@ -1,3 +1,4 @@
+while (rs.next())
 Class.forName(driverClass);
 test.init();
 props.load(fs);
